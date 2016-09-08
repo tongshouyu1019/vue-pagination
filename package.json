@@ -2,7 +2,7 @@
   "name": "vue-pagination",
   "version": "0.1.0",
   "description": "A pagination for vue.js",
-  "main": "dist/vue-pagination.js",
+  "main": "vue-pagination.vue",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
