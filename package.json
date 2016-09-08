@@ -1,0 +1,19 @@
+{
+  "name": "vue-pagination",
+  "version": "0.1.0",
+  "description": "A pagination for vue.js",
+  "main": "dist/vue-pagination.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tongshouyu1019/vue-pagination.git"
+  },
+  "author": "tsy1019",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tongshouyu1019/vue-pagination/issues"
+  },
+  "homepage": "https://github.com/tongshouyu1019/vue-pagination#readme"
+}
