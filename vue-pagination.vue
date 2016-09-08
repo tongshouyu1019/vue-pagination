@@ -1,3 +1,12 @@
+/**!
+ * vue-pagination - vue-pagination.vue
+ *
+ * 分页组件
+ *
+ * Authors:
+ *  tsy <tongshouyu@gmail.com>
+ */
+
 <template>
   <div class="{{wrapperClass}}">
     <a class="button stat">
